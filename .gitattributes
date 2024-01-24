@@ -1,0 +1,2 @@
+lib/IfcGeom_ifc2x3d.lib filter=lfs diff=lfs merge=lfs -text
+lib/IfcGeom_ifc4d.lib filter=lfs diff=lfs merge=lfs -text
